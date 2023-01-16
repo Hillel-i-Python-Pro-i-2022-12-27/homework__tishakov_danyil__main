@@ -1,0 +1,6 @@
+Faker==16.4.0
+black==22.12.0
+pyupgrade==3.3.1
+flake8==6.0.0
+pre-commit==2.21.0
+autoflake==2.0.0
